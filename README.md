@@ -4,7 +4,7 @@ Sou um desenvolvedor focado em unir interfaces de usuário atraentes (Front-end)
 
 ## 🛠️ Habilidades e Tecnologias
 
-- **Front-end:** HTML5, CSS3, JavaScript (coloque aqui se usa React, Vue, etc.)
+- **Front-end:** HTML5, CSS3, JavaScript
 - **Back-end & Lógica:** Python (Flask / FastAPI / Django)
 - **Banco de Dados:** SQL (PostgreSQL / MySQL / SQLite)
 - **Ferramentas:** Git, GitHub, VS Code
@@ -12,4 +12,4 @@ Sou um desenvolvedor focado em unir interfaces de usuário atraentes (Front-end)
 ## 📈 Meus Objetivos
 Atualmente focado em desenvolver projetos Full Stack que integrem APIs em Python com bancos de dados relacionais e interfaces modernas no Front-end.
 
-📫 **Como me encontrar:** www.linkedin.com/in/vinicius-rodrigues-ads | contato.viniciusal@gmail.com
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/vinicius-rodrigues-ads) | contato.viniciusal@gmail.com

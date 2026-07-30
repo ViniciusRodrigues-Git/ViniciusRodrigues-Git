@@ -1,15 +1,19 @@
-# Olá, eu sou o Vinícius Rodrigues! 👋
+Olá, eu sou o Vinícius Rodrigues! 👋
 
-Sou um desenvolvedor focado em unir interfaces de usuário atraentes (Front-end) com lógica robusta e manipulação de dados (Python & SQL). Estou sempre em busca de criar aplicações completas, eficientes e escaláveis.
+Desenvolvedor Jr. formado em Análise e Desenvolvimento de Sistemas, com foco em Python e SQL. Gosto de resolver problemas transformando lógica e dados em soluções funcionais.
 
-## 🛠️ Habilidades e Tecnologias
+🛠️ Habilidades e Tecnologias
+Back-end & Lógica: Python, Flask
+Banco de Dados: SQL (consultas, filtros e joins), SQLite
+Front-end: HTML5, CSS3, JavaScript
+Ferramentas: Git, GitHub, VS Code
+📈 Meus Objetivos
 
-- **Front-end:** HTML5, CSS3, JavaScript
-- **Back-end & Lógica:** Python (Flask / FastAPI / Django)
-- **Banco de Dados:** SQL (PostgreSQL / MySQL / SQLite)
-- **Ferramentas:** Git, GitHub, VS Code
+Atualmente em busca de uma oportunidade como Desenvolvedor(a) Jr ou Analista de Dados, para aplicar minha stack técnica, continuar evoluindo e contribuir com soluções orientadas a dados.
 
-## 📈 Meus Objetivos
-Atualmente focado em desenvolver projetos Full Stack que integrem APIs em Python com bancos de dados relacionais e interfaces modernas no Front-end.
+🚀 Projetos em destaque
+Simulador de Crédito Consignado — cálculo automático de parcelas e viabilidade de empréstimos
+App de Consulta de Clima — consulta de previsão do tempo em tempo real com Flask
+Cadastro de Usuários — sistema de cadastro com validação de dados
 
-📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/vinicius-rodrigues-ads) | contato.viniciusal@gmail.com
+📫 Como me encontrar: LinkedIn | contato.viniciusal@gmail.com
